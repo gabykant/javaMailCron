@@ -3,6 +3,7 @@
 
 JavaMail app cron is a simple Java code that runs under a cron job and delivers email to a list emails addresses picked from a MySQL database.
 In this project we highligth some approaches:
+
 - A properties files that contains parameters of the application such username and password to MySQL
 - Writing log file
 - Sending an email in HTML format
